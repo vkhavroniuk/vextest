@@ -42,11 +42,6 @@ void pre_auton(void) {
 /*  You must modify the code to add your own robot specific commands here.   */
 /*---------------------------------------------------------------------------*/
 
-void mytest(void) {
-
-waitUntil(true);
-
-}
 
 void autonomous(void) {
   // ..........................................................................
